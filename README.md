@@ -1,4 +1,6 @@
 # Process-Scheduling-Simulator-Operating-system
+## Objective
+The main objective for creating the project is that to help the student to get their solution or to check their solution by passing the values. The basic problem in managing memory is knowing when to keep the data it contains, and when to throw it away so that the memory can be reused. This sounds easy, but is, in fact, such a hard problem that it is an entire field of study in its own right. In an ideal world, most programmers wouldn’t have to worry about memory management issues. Unfortunately, there are many ways in which poor memory management practice can affect the robustness and speed of programs, both in manual and in automatic memory management. Process Scheduling allows the OS to allocate CPU time for each process. Another important reason to use a process scheduling system is that it keeps the CPU busy at all times. This allows you to get less response time for programs.
  Operating System
 
   <img width="418" alt="image" src="https://github.com/2002kartik12/Process-Scheduling-Simulator-Operating-system/assets/110666936/871e0558-c990-49ff-843a-f38c5dfaaac2">
